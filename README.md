@@ -43,6 +43,4 @@ Insight:
 
 The top 5 most frequently underrated breeds by WeRateDogs are Labrador Retriver, Golden Retriever, pug, Pembroke, maiamute. The top 1, Labrador Retriver is almost as 2 times frequently underrated as Pembroke.
 
-Insight: 
-
 The top 5 most frequently overrated breeds by WeRateDogs are Golden Retriever, Labrador Retriver, Rottweiler, Pomeranian, Chihuahua. The top 1, Golden Retriever, is almost as 2 times frequently overrated as Rottweiler.

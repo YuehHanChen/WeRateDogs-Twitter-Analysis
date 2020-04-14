@@ -19,11 +19,7 @@ Many people have their cute dogs and their dogs’ social accounts. However, mos
 
 - whether the ratings in WeRateDogs' posts affect the results?
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f63e6a8-b3bc-471f-bde9-0f570cec99f4/_2020-04-08_1.28.34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f63e6a8-b3bc-471f-bde9-0f570cec99f4/_2020-04-08_1.28.34.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef2f07ba-1449-4fc3-a36f-1765561dc532/_2020-04-08_1.28.42.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef2f07ba-1449-4fc3-a36f-1765561dc532/_2020-04-08_1.28.42.png)
-
-From this information, we can tell that the ratings given by WeRateDogs' posts highly affected the results, which means the results can be manipulated by the content writer.
+From my analysis, I can tell that the ratings given by WeRateDogs' posts highly affected the results, which means the results can be manipulated by the content writer.
 
 ## 3 research questions
 

@@ -1,6 +1,6 @@
 # WeRateDogs-Twitter-Analysis
 ## by Yueh-Han Chen
-## Dataset Overview
+## Context
 Many people have their cute dogs and their dogs’ social accounts. However, most of them typically do not run their accounts very well due to lacking the knowledge of what the audience likes and what drives their favorite and retweet counts. 
 
 ## Main File Explanation:

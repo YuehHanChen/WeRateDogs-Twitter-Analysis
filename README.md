@@ -1,16 +1,15 @@
 # WeRateDogs-Twitter-Analysis
 ## by Yueh-Han Chen
 ## Context
-Many people have their cute dogs and their dogs’ social accounts. However, most of them typically do not run their accounts very well due to lacking the knowledge of what the audience likes and what drives their favorite and retweet counts. 
+Many people have their cute dogs and their dogs’ social accounts. However, most of them typically do not run their accounts very well due to lacking the knowledge of what the audience likes and what drives their favorite and retweet counts. Therefore, I wanna investigate these 3 questions:
+
+> 1. Which stage of dogs got the highest retweet counts and favorite counts?
+> 2. Whats are the top three breeds of dogs got the average highest retweet counts?
+> 3. Whats are the top 5 underrated and overrated breeds of dogs? (being underrated means got the low scores from WeRateDogs but got high retweet counts and vice versa)?
 
 ## Main File Explanation:
 - The main analysis file is wrangle_act.ipynb
 - The final report is WeRateDogs_Analysis.pdf
-
-# Reseach Questions
-> 1. Which stage of dogs got the highest retweet counts and favorite counts?
-> 2. Whats are the top three breeds of dogs got the average highest retweet counts?
-> 3. Whats are the top 5 underrated and overrated breeds of dogs? (being underrated means got the low scores from WeRateDogs but got high retweet counts and vice versa)?
 
 ### Before jumping to the analysis, we need to understand our limitation and whether other factor in WeRateDogs affect the favorite and retweet counts :
 

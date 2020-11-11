@@ -15,8 +15,9 @@ Many people have their cute dogs and their dogs’ social accounts. However, mos
 
 ### limitation:
 
-- Limitation 1: There are only 15% of the data have stages means the analysis about stages will will be 85% degree inaccurate.
-- Limitation 2: There are 80% of the data have predicted breeds means the future prediction about breeds will be around 20% degree inaccurate.
+- Limitation 1: There are only 15% of the data documenting sizes. Yet we didn’t conduct the confidence interval or hypothesis testing to test if our conclusion for size is believable, so the audience should have some degree doubt our insights.
+
+- Limitation 2: I’m not sure how the breeds were predicted by the people who created the machine learning models, so the predicted breeds should be doubted to some degree by the audience. There are no 100% sure things in our conclusions.
 
 **Other factor in WeRateDogs:**
 
